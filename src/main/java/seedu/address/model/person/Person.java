@@ -123,12 +123,12 @@ public class Person {
                 .append(" Tags: ");
         getTags().forEach(builder::append);;
 
-        /*
+
         Set<Tag> tags = getTags();
         if (!tags.isEmpty()) {
             builder.append("; Tags: ");
             tags.forEach(builder::append);
-        }*/
+        }
         return builder.toString();
     }
 
