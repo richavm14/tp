@@ -1,10 +1,8 @@
 package seedu.address.model.member;
 
-import seedu.address.model.member.Name;
+import static seedu.address.commons.util.CollectionUtil.requireAllNonNull;
 
 import java.util.Objects;
-
-import static seedu.address.commons.util.CollectionUtil.requireAllNonNull;
 
 /**
  * Represents a Team in the address book.
