@@ -13,13 +13,13 @@ future tasks. With our app, teams management would be easier than ever.
 
 ## Index
 
-- [Quick Start](#Quick Start)
+- [Quick Start](#Quick-Start)
 - [Features](#Features)
-- [Command Summary](#Command Summary)
+- [Command Summary](#Command-Summary)
 
 --------------------------------------------------------------------------------------------------------------------
 
-## Quick Start
+## QuickStart
 
 1. Ensure that you have Java `11` installed in your computer.
 2. Download the latest EZLead.jar from [here](https://github.com/AY2223S1-CS2103T-W09-3/tp/releases/download/v1.3.1/EzLead.jar).
@@ -186,7 +186,7 @@ Coming Soon!
 
 --------------------------------------------------------------------------------------------------------------------
 
-## Command Summary
+## CommandSummary
 
 | Action              | Format, Examples                                                                                                                                               |
 |---------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
