@@ -13,9 +13,15 @@ future tasks. With our app, teams management would be easier than ever.
 
 ## Index
 
+- [GUI](#GUI)
 - [Quick Start](#Quick-Start)
 - [Features](#Features)
 - [Command Summary](#Command-Summary)
+
+--------------------------------------------------------------------------------------------------------------------
+#GUI
+
+<img src= "images/Ui.png">
 
 --------------------------------------------------------------------------------------------------------------------
 
